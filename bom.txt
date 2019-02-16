@@ -8,3 +8,5 @@ QTY	  PART NUMBER		          DESCRIPTION			              LOCATION
 1X	  208-5			              DIP SWITCH 5 POS		          SW1
 1x	  22-23-2051		          PIN HEADER 5 POS .100"		    J5
 8X	  K104K15X7RF5TL2		      .1UF CERAMIC CAPACITORS		    C1-C8
+
+The headers that poke into the Vs. board itself are standard .100" headers. Find them on Amazon or anywhere really.
