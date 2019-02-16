@@ -10,7 +10,7 @@ This board design will allow you to run up to 8 games per side on a Nintendo Vs.
 This repo includes the following:
 - GERBER Files needed to send to a fab house
 - Eagle CAD files so that you can modify this design further, and/or fix things. (both 7.x and 9.x files)
-- **Parts list** - coming soon
+- Parts List (see bom.txt)
 - **An application to package up ROM's so that you can burn to some flash memory** - coming soon
 
 
